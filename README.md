@@ -16,4 +16,4 @@ Mod In Use! **https://youtu.be/R0bfGEbKPqc**
 
 **Help**
   Installation Guide: *https://www.youtube.com/watch?v=vKlr1j9D9I0&ab_channel=REDDADGAMING*
-  This video walks through installing Script Hoo
+  This video walks through installing Script Hook
